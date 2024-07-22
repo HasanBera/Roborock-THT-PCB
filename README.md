@@ -36,8 +36,7 @@ Assembly Instructions
 [Step-by-step instructions]
 -->
 
-**Usage**
-Preparing the cables:
+**Preparing the cables:**
 
 _MCU--->PCB_
 The cable from your MCU to the PCB consists of 3 wires: PWM IN, GND, and VCC. You have to connect VCC and GND to the Hotend Outputs on your controlboard. And last but not least PWM IN, should be connected to the RGB/NEOPIXEL output on your controlboard.
