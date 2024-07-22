@@ -4,18 +4,17 @@ This repository contains the design and instructions for a fan control circuit u
 
 _**Key Features:**_
 
-THT Components: Utilizes through-hole components, making it accessible for hobbyists and easier to solder by hand.
+-*THT Components: Utilizes through-hole components, making it accessible for hobbyists and easier to solder by hand.
 
-Size: Matches the dimensions of the [BTT U2C](https://github.com/bigtreetech/U2C), ensuring compatibility and ease of integration.
+-*Size: Matches the dimensions of the [BTT U2C](https://github.com/bigtreetech/U2C), ensuring compatibility and ease of integration.
 
+-*Ease of Assembly: Simplified assembly process compared to SMD (Surface-Mount Device) components.
 
-Ease of Assembly: Simplified assembly process compared to SMD (Surface-Mount Device) components.
+-*Component Availability: Parts are easier to source from local and online suppliers.
 
-Component Availability: Parts are easier to source from local and online suppliers.
+-*Cost-Effective: Both the components and the overall production are more affordable.
 
-Cost-Effective: Both the components and the overall production are more affordable.
-
-Background:
+**Background:**
 The original design and schematic are from this GitHub repository: [Roborock-CPAP](https://github.com/condottab/Roborock-CPAP) by [condottab](https://github.com/condottab). While the original PCB design is in SMD format, this project provides a THT alternative to cater to users looking for a simpler and more accessible solution.
 
 Components
