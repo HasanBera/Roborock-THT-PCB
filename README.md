@@ -39,10 +39,10 @@ Assembly Instructions
 **Preparing the cables:**
 
 _MCU--->PCB_
-The cable from your MCU to the PCB consists of 3 wires: PWM IN, GND, and VCC. You have to connect VCC and GND to the Hotend Outputs on your controlboard. And last but not least PWM IN, should be connected to the RGB/NEOPIXEL output on your controlboard.
+The cable from your MCU to the PCB consists of 3 wires: PWM IN(1), GND(2), and VCC(3). You have to connect VCC(3) and GND(2) to the Hotend Outputs on your controlboard. And last but not least PWM IN(1), should be connected to the RGB/NEOPIXEL output on your controlboard.
 
 _PCB--->FAN_
-The PWM OUT of the second cable needs to be connected to the second pin on the motor. The motor requires a PH2.0 4-pin connector (the PCB on the motor indicates the pin numbers). The GND should be connected to the 3. pin and the VCC to the 4. pin. (We do not need the 1. pin in our project.)
+The PWM OUT(1) of the second cable needs to be connected to the second pin on the motor. The motor requires a PH2.0 4-pin connector (the PCB on the motor indicates the pin numbers). The GND(2) should be connected to the 3. pin and the VCC(3) to the 4. pin. (We do not need the 1. pin in our project.)
 
 **Klipper Configuration:**
 
