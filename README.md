@@ -1,4 +1,4 @@
-Roborock PBC using THT Components.
+**Roborock PBC using THT Components.**
 
 This repository contains the design and instructions for a fan control circuit using THT, specifically for controlling a Roborock robot vacuum fan used as an external part cooling fan in 3D printers. This design offers several advantages over existing solutions, particularly for those who prefer easier assembly and cost-effective components.
 
