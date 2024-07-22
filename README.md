@@ -50,8 +50,8 @@ Add this code to your printer.cfg in Klipper
 ```markdown
 [fan]
 #part cooling fan
-pin: PB10
-enable_pin: PB0
+pin: ### Your PWM pin
+enable_pin: ### Your HE pin
 hardware_pwm: True
 cycle_time: 0.00004
 off_below: 0.12
