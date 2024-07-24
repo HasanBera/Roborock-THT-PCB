@@ -59,6 +59,3 @@ off_below: 0.12
 kick_start_time: 0.01
 ```
 
-
-Acknowledgments:
-Thanks to the original creator for the initial design and inspiration.
