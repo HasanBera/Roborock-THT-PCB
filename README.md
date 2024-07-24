@@ -46,7 +46,7 @@ The PWM OUT(1) of the second cable needs to be connected to the second pin on th
 
 **Klipper Configuration:**
 
-Add this code to your printer.cfg in Klipper 
+Add this section to your printer.cfg in Klipper 
 ```markdown
 [fan]
 #part cooling fan
