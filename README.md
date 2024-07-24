@@ -28,9 +28,10 @@ Components
 | XH-3A       | 2      |
 
 <!-- schematic -->
+<!--
 <img src="https://github.com/HasanBera/Roborock-THT-PCB/blob/main/assets/schematic.png?raw=true" alt="" width="230"/>
-
-
+-->
+<img src="assets/schematic.png" alt="" width="230"/>
 <!--
 Assembly Instructions
 [Step-by-step instructions]
