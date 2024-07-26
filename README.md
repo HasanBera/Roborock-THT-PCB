@@ -1,4 +1,4 @@
-***Note That this pcb isn't tested yet!!!!***
+***!!!!Keep in mind this PCB hasn't been tested yet!!!!***
 
 
 **Roborock PCB using THT Components.**
