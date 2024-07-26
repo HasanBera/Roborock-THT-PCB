@@ -1,7 +1,7 @@
 ***Note That this pcb isn't tested yet!!!!***
 
 
-**Roborock PBC using THT Components.**
+**Roborock PCB using THT Components.**
 
  
 _**Key Features:**_
