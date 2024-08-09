@@ -1,3 +1,5 @@
+<img src="assets/pcbs.jpg" alt="" width="400"/>
+
 ***!!!!Keep in mind this PCB hasn't been tested yet!!!!***
 
 
