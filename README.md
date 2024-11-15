@@ -7,7 +7,6 @@ I highly recommend PCBWay for anyone in need of fast and high-quality PCB manufa
 
 <br>
 
-***!!!!Keep in mind this PCB hasn't been tested yet!!!!***
 
 <br>
 <br>
